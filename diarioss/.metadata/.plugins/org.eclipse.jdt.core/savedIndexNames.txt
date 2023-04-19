@@ -1,0 +1,6 @@
+INDEX VERSION 1.132+C:\Users\Laura\OneDrive\Desktop\gastos\diarioss\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3581163120.index
+769422452.index
+1484409436.index
+913942051.index
